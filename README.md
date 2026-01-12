@@ -15,7 +15,9 @@ Block-style artistic visualization:
 Digital LED display simulation:
 ![7-Segment Output](assets/images/7-segment.png)
 
+
 ---
+
 
 ## 🚀 Features
 
