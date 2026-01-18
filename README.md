@@ -17,7 +17,6 @@ Digital LED display simulation:
 
 ---
 
-
 ## 🚀 Features
 
 * **Random Generation:** Generates random integer numbers.
