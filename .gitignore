@@ -1,11 +1,11 @@
-# Maven
+#  Maven
 /target/
 
-# NetBeans
+#  NetBeans
 /nbproject/private/
 
-# Compiled files
+#  Compiled files
 *.class
 
-# OS files
+#  OS files
 .DS_Store
