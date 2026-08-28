@@ -16,7 +16,6 @@ Digital LED display simulation:
 ![7-Segment Output](assets/images/7-segment.png)
 
 ---
-
 ## 🚀 Features
 
 * **Random Generation:** Generates random integer numbers.
