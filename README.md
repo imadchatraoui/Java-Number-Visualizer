@@ -1,5 +1,6 @@
 
 
+
 # Java Number Visualizer 🔢
 
 A Java console application that generates random numbers and renders them in various artistic formats: standard text, decorative ASCII Art, and a simulated 7-segment LED display (digital clock style).
