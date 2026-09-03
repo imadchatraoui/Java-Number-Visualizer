@@ -13,7 +13,6 @@
     </properties>
     <dependencies> 
     <dependency> 
-        
             <groupId>edu.avo</groupId>
     <artifactId>RenderersUtilityLibrary</artifactId>
     <version>1.0-SNAPSHOT</version>
